@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(173, 173, 229);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}
+ h2{
+    text-align: center;
+ }
+button{
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px 40px;
+    background-color: brown;
+    border-radius: 8px;
+    font-size: large;
+}
